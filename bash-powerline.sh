@@ -21,7 +21,7 @@ __powerline() {
       case "$(uname)" in
           Darwin)   PS_SYMBOL='';;
           Linux)    PS_SYMBOL='$';;
-          *)        PS_SYMBOL='%';;
+          *)        PS_SYMBOL='\n%>';;
       esac
     fi
 
