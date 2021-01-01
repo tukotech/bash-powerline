@@ -2,7 +2,7 @@
 
 Powerline for Bash in pure Bash script.
 
-![bash-powerline](https://raw.github.com/riobard/bash-powerline/master/screenshots/solarized-light.png)
+![bash-powerline](https://raw.github.com/tukotech/bash-powerline/master/screenshots/solarized-light.png)
 
 ## Features
 
@@ -20,7 +20,7 @@ Powerline for Bash in pure Bash script.
 
 Download the Bash script
 
-    curl https://raw.githubusercontent.com/riobard/bash-powerline/master/bash-powerline.sh > ~/.bash-powerline.sh
+    curl https://raw.githubusercontent.com/tukotech/bash-powerline/master/bash-powerline.sh > ~/.bash-powerline.sh
 
 And source it in your `.bashrc`
 
